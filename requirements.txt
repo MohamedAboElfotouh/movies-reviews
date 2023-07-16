@@ -1,0 +1,5 @@
+requests==2.31.0
+Flask==2.3.2
+WTForms==3.0.1
+Werkzeug==2.3.6
+flask_wtf==1.1.1
